@@ -1,2 +1,2 @@
-# simple_counter_in_js
+# Counting App
 A simple counting app written in Javascript
